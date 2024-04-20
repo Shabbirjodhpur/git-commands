@@ -26,3 +26,5 @@ git checkout <hash of the snapshot>
 git checkout master
 (OR)
 git checkout main
+
+...
