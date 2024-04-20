@@ -36,9 +36,11 @@ Use .gitignore
 ----To check status of files:
 git status
 
+----To add origin:
+git remote add origin <origin _url>
 
-
-Samsung Phone
+----To push to github:
+git push origin master
 
 
 
