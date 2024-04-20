@@ -1,0 +1,20 @@
+----make a new file:
+notepad <your file name>
+
+One Time command for machine (To add user name):
+git config --global user.name "your user name goes here"
+
+One Time command for machine (To add user email):
+git config --global user.email "your user email goes here"
+
+----To intialize a git repo:
+git init
+
+----To push to staging area:
+git add .
+
+----To make a commit (Snapshot):
+git commit -m "your message goes here"
+
+----To see the logs:
+git log
