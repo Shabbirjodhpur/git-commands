@@ -11,6 +11,9 @@ git config --global user.email "your user email goes here"
 git init
 
 ----To push to staging area:
+git add <your file name goes here>
+
+----To push to staging area:
 git add .
 
 ----To make a commit (Snapshot):
@@ -27,4 +30,27 @@ git checkout master
 (OR)
 git checkout main
 
-...
+----To tell git to not track certain secret files:
+Use .gitignore
+
+----To check status of files:
+git status
+
+
+
+Samsung Phone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
